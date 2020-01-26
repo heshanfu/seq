@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1a5cbbe67d7b3c32ac72356793b0f2f1a4:
+
+Function get_ref_generic_count
+==============================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: get_ref_generic_count(types::Type *)

@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1a1458a8be4ff902475175e6ae38e99778:
+
+Function extractSliceLiteral
+============================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: extractSliceLiteral(Expr *, std::vector<seq_int_t>&, types::RecordType *&)

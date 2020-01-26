@@ -1,0 +1,13 @@
+.. _exhale_function_funct_8cpp_1a134e23055c8ec8c772851614e6034f8e:
+
+Function compatibleArgType
+==========================
+
+- Defined in :ref:`file_compiler_types_funct.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: compatibleArgType(types::Type *, types::Type *)

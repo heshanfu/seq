@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1aced413c8b2d1b84ccd147a432e3eb828:
+
+Function get_func_attrs
+=======================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: get_func_attrs(Expr *)

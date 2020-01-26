@@ -1,0 +1,71 @@
+
+.. _file_compiler_include_seq_parser.h:
+
+File parser.h
+=============
+
+|exhale_lsh| :ref:`Parent directory <dir_compiler_include_seq>` (``compiler/include/seq``)
+
+.. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+Definition (``compiler/include/seq/parser.h``)
+----------------------------------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   program_listing_file_compiler_include_seq_parser.h.rst
+
+
+
+
+
+Includes
+--------
+
+
+- ``caml/alloc.h``
+
+- ``caml/callback.h``
+
+- ``caml/mlvalues.h``
+
+- ``iostream``
+
+- ``seq/seq.h`` (:ref:`file_compiler_include_seq_seq.h`)
+
+- ``string``
+
+
+
+
+
+
+Namespaces
+----------
+
+
+- :ref:`namespace_seq`
+
+
+Functions
+---------
+
+
+- :ref:`exhale_function_parser_8h_1a5bc362ee224d30a83b7ebd4df8d63b04`
+
+- :ref:`exhale_function_parser_8h_1adf669f351177432082e45446b45c924b`
+
+- :ref:`exhale_function_parser_8h_1a73c88ebe2109ec86c2aab44827b861af`
+
+- :ref:`exhale_function_parser_8h_1acf40668f41dd2310fe11b8c99e35e7de`
+
+- :ref:`exhale_function_parser_8h_1a74bb5da324ca994708e73ce5a10ffd18`
+
+- :ref:`exhale_function_parser_8h_1a0855f34baab1399cd68ec30eba798246`
+

@@ -1,0 +1,13 @@
+.. _exhale_function_seq_8cpp_1ac0d5b3a4c29e33a0f0fa4adb9219657c:
+
+Function applyGCTransformations
+===============================
+
+- Defined in :ref:`file_compiler_lang_seq.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: applyGCTransformations(Module *)

@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1a54640aaeb6fa03ab1dec01bb996e080b:
+
+Function sliceTypeFromName
+==========================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: sliceTypeFromName(const std::string&)

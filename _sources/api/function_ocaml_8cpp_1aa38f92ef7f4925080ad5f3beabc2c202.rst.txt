@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1aa38f92ef7f4925080ad5f3beabc2c202:
+
+Function optional_type
+======================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: optional_type(types::Type *)

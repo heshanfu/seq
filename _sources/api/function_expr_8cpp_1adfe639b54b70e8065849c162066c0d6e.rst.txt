@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1adfe639b54b70e8065849c162066c0d6e:
+
+Function sliceAdjustIndices
+===========================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: sliceAdjustIndices(seq_int_t, seq_int_t *, seq_int_t *, seq_int_t)

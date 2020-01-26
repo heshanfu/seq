@@ -1,0 +1,22 @@
+.. _exhale_struct_structseq_1_1types_1_1GenType_1_1InterAlignParams:
+
+Struct GenType::InterAlignParams
+================================
+
+- Defined in :ref:`file_compiler_include_seq_funct.h`
+
+
+Nested Relationships
+--------------------
+
+This struct is a nested type of :ref:`exhale_class_classseq_1_1types_1_1GenType`.
+
+
+Struct Documentation
+--------------------
+
+
+.. doxygenstruct:: seq::types::GenType::InterAlignParams
+   :members:
+   :protected-members:
+   :undoc-members:

@@ -1,0 +1,13 @@
+.. _exhale_function_seq_8cpp_1a3e06a6c3162ba1bbfaaef6c19d022620:
+
+Function seq_add_symbol
+=======================
+
+- Defined in :ref:`file_compiler_lang_seq.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: seq_add_symbol(void *, const std::string&)

@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1a12bdabf038304414105153f2f7ddfb28:
+
+Function extractIntLiteral
+==========================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: extractIntLiteral(Expr *, seq_int_t&)

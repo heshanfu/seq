@@ -1,0 +1,13 @@
+.. _exhale_function_patterns_8cpp_1aa1d43cd07bf1e6fb3fe56b2f853c97e5:
+
+Function indexIntoSeq
+=====================
+
+- Defined in :ref:`file_compiler_lang_patterns.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: indexIntoSeq(Value *, Value *, Value *, Value *, BasicBlock *)

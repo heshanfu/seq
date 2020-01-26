@@ -1,0 +1,13 @@
+.. _exhale_function_lang_8cpp_1a06e37e74585cb99071a32f8db1108e2b:
+
+Function isTest
+===============
+
+- Defined in :ref:`file_compiler_lang_lang.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: isTest(BaseFunc *)

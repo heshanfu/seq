@@ -1,0 +1,13 @@
+.. _exhale_function_funct_8cpp_1abebd402b22500fb412f30aef4a9c65f3:
+
+Function asOpt
+==============
+
+- Defined in :ref:`file_compiler_types_funct.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: asOpt(types::Type *)

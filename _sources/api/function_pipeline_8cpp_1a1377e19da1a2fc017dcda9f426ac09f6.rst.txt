@@ -1,0 +1,13 @@
+.. _exhale_function_pipeline_8cpp_1a1377e19da1a2fc017dcda9f426ac09f6:
+
+Function applyRevCompOptimization
+=================================
+
+- Defined in :ref:`file_compiler_lang_pipeline.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: applyRevCompOptimization(std::vector<Expr *>&, std::vector<bool>&)

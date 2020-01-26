@@ -1,0 +1,16 @@
+.. _exhale_struct_structUnpackedStage:
+
+Struct UnpackedStage
+====================
+
+- Defined in :ref:`file_compiler_lang_pipeline.cpp`
+
+
+Struct Documentation
+--------------------
+
+
+.. doxygenstruct:: UnpackedStage
+   :members:
+   :protected-members:
+   :undoc-members:

@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1a1cf8ee43f7745694a344bfbfd8e6e370:
+
+Function is_ref_type
+====================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: is_ref_type(types::Type *)

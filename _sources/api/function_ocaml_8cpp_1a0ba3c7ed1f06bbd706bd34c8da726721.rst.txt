@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1a0ba3c7ed1f06bbd706bd34c8da726721:
+
+Function partial_expr_with_names
+================================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: partial_expr_with_names(Expr *, Expr **, char **, size_t)

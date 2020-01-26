@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1ae130b4a28ccf42f4c70c192c99427b03:
+
+Function getExprForTupleSlice
+=============================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: getExprForTupleSlice(Expr *, Expr *, types::RecordType *, RecordExpr *)

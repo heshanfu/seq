@@ -1,0 +1,61 @@
+
+.. _file_compiler_lang_pipeline.cpp:
+
+File pipeline.cpp
+=================
+
+|exhale_lsh| :ref:`Parent directory <dir_compiler_lang>` (``compiler/lang``)
+
+.. |exhale_lsh| unicode:: U+021B0 .. UPWARDS ARROW WITH TIP LEFTWARDS
+
+.. contents:: Contents
+   :local:
+   :backlinks: none
+
+Definition (``compiler/lang/pipeline.cpp``)
+-------------------------------------------
+
+
+.. toctree::
+   :maxdepth: 1
+
+   program_listing_file_compiler_lang_pipeline.cpp.rst
+
+
+
+
+
+Includes
+--------
+
+
+- ``queue``
+
+- ``seq/seq.h`` (:ref:`file_compiler_include_seq_seq.h`)
+
+- ``utility``
+
+
+
+
+
+
+Classes
+-------
+
+
+- :ref:`exhale_struct_structDrainState`
+
+- :ref:`exhale_struct_structUnpackedStage`
+
+
+Functions
+---------
+
+
+- :ref:`exhale_function_pipeline_8cpp_1a1377e19da1a2fc017dcda9f426ac09f6`
+
+- :ref:`exhale_function_pipeline_8cpp_1a6ada7b8e9c1c4d5443266f377ed6e42f`
+
+- :ref:`exhale_function_pipeline_8cpp_1ae562c88843c77d3ef9c36b93f2c061c2`
+

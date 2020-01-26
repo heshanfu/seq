@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1adb24eb91f79cedb079c4a4615ebd0918:
+
+Function yield_expr
+===================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: yield_expr(BaseFunc *)

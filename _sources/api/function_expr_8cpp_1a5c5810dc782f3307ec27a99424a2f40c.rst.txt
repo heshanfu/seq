@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1a5c5810dc782f3307ec27a99424a2f40c:
+
+Function rectifyCallArgs
+========================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: rectifyCallArgs(Expr *, std::vector<Expr *>, std::vector<std::string>)

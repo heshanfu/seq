@@ -1,0 +1,13 @@
+.. _exhale_function_expr_8cpp_1a55ed4f8a3490f9ecf58d937522d05796:
+
+Function getExprForTupleIndex
+=============================
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: getExprForTupleIndex(Expr *, Expr *, types::RecordType *, GetElemExpr *)

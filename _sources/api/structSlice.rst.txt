@@ -1,0 +1,16 @@
+.. _exhale_struct_structSlice:
+
+Struct Slice
+============
+
+- Defined in :ref:`file_compiler_lang_expr.cpp`
+
+
+Struct Documentation
+--------------------
+
+
+.. doxygenstruct:: Slice
+   :members:
+   :protected-members:
+   :undoc-members:

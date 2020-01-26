@@ -1,0 +1,13 @@
+.. _exhale_function_ocaml_8cpp_1a31e26ba48215dd218439b70c541b602d:
+
+Function set_func_defaults
+==========================
+
+- Defined in :ref:`file_compiler_util_ocaml.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: set_func_defaults(Func *, Expr **, size_t)

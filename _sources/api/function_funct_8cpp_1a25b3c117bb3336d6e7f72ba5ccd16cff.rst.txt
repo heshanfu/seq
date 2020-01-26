@@ -1,0 +1,13 @@
+.. _exhale_function_funct_8cpp_1a25b3c117bb3336d6e7f72ba5ccd16cff:
+
+Function expectedTypeName
+=========================
+
+- Defined in :ref:`file_compiler_types_funct.cpp`
+
+
+Function Documentation
+----------------------
+
+
+.. doxygenfunction:: expectedTypeName(types::Type *)
